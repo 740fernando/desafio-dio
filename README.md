@@ -49,8 +49,30 @@ A entrada contém vários casos de teste.
 
 O final da entrada é indicado por uma linha contendo quatro zeros.
 
-## Saída
+### Saída
 
 Para cada caso de teste da entrada seu programa deve imprimir uma única linha na saída, contendo um número inteiro, indicando o menor número de movimentos necessários para a dama chegar em sua casa de destino.
 
 ![image](https://user-images.githubusercontent.com/32016610/154385219-9f691b2d-d854-4d92-b3d1-c66ad21e8cbb.png)
+
+
+# Área do Círculo
+
+A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
+
+- Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
+
+### Entrada
+A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio.
+
+### Saída
+
+- Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. 
+
+- Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+
+
+![image](https://user-images.githubusercontent.com/32016610/154823557-3c2d3274-cf65-4732-88f8-b109ed00816c.png)
+
+
+
