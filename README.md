@@ -1,5 +1,5 @@
 
-# Média
+# 1 - Média
 
 - Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 3.5 e a nota B tem peso 7.5 (A soma dos pesos portanto é 11). Assuma que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
 
@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/32016610/154385732-e67d528f-e7ef-4829-baec-14546ff44fe2.png)
 
 
-# Exibindo Números
+# 2 - Exibindo Números
 
 
 - Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo
@@ -32,7 +32,7 @@
 
 
 
-# Dama
+# 3 - Dama
 
 O jogo de xadrez possui várias peças com movimentos curiosos: uma delas é a dama, que pode se mover qualquer quantidade de casas na mesma linha, na mesma coluna, ou em uma das duas diagonais, conforme exemplifica a figura abaixo
 
@@ -56,7 +56,7 @@ Para cada caso de teste da entrada seu programa deve imprimir uma única linha n
 ![image](https://user-images.githubusercontent.com/32016610/154385219-9f691b2d-d854-4d92-b3d1-c66ad21e8cbb.png)
 
 
-# Área do Círculo
+# 4 - Área do Círculo
 
 A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
 
@@ -75,7 +75,7 @@ A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a vari
 ![image](https://user-images.githubusercontent.com/32016610/154823557-3c2d3274-cf65-4732-88f8-b109ed00816c.png)
 
 
-# O Filme
+# 5 - O Filme
 
 
 - Bem-vindo à 3ạ Maratona de Programação Júnior da UFFS. Esperamos sinceramente que as próximas horas sejam muito produtivas para você, que você faça muitos balões e que, acima de tudo, você se divirta! Lembre que você sempre pode pedir esclarecimento quando não entender direito a descrição de um problema. Lembre também que às 17:30 os juízes automáticos serão desligados e a competição entrará em modo blind, de modo que todas as submissões neste período só começarão a ser julgadas às 18:10. Por favor, fique conosco até o fim da competição, trabalhando nas soluções dos problemas até o último minuto, pois, enquanto a competição ainda está ocorrendo, sempre há esperança!
@@ -101,7 +101,7 @@ A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a vari
 3ạ Maratona de Programação Júnior da UFFS
 
 
-# Visita na Feira
+# 6 - Visita na Feira
 
 - Você está na feira com a sua sacola e parou em uma banca. O feirante lhe entregou pimentões amarelos e vermelhos. Agora iremos somar os pimetões amarelos e vermelhos para descobrir o total de pimentões na sacola. 
 
@@ -118,7 +118,7 @@ A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a vari
 - Imprimir a mensagem "X = " (sendo a letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. 
 - Assegure que exista um espaço antes e depois do sinal de igualdade.
 
-# Notas e Moedas
+# 7 - Notas e Moedas
 
 
 - Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário. 
@@ -144,6 +144,30 @@ Obs: Utilize ponto (.) para separar a parte decimal.
 ![image](https://user-images.githubusercontent.com/32016610/154864347-d13c2799-5ede-4e50-92c0-1cbfacbf1eff.png)
 
 ![image](https://user-images.githubusercontent.com/32016610/154864353-d99a70d1-1339-42b3-b7fa-07b990aa2ed0.png)
+
+# 8 - Notação Científica
+
+
+- Números em ponto flutuante podem ser bastante extensos para mostrar.
+
+- Nesses casos, é conveniente usar a notação científica.
+
+- Você deve escrever um programa que, dado um número em ponto flutuante, mostre este número na notação científica: sempre mostre o sinal da mantissa; sempre mostre 4 casas decimais na mantissa; use o caractere 'E' para separar a mantissa do expoente; 
+
+- sempre mostre o sinal do expoente; 
+
+- Mostre o expoente com pelo menos 2 dígitos.
+
+### Entrada
+
+- A entrada é um número em ponto flutuante de dupla precisão X (de acordo com o padrão IEEE 754-2008). Nunca haverá um número com mais de 110 caracteres nem com mais de 6 casas decimais.
+
+### Saída
+
+- A saída é o número X em uma única linha na notação científica detalhada acima. Veja os exemplos abaixo.
+
+![image](https://user-images.githubusercontent.com/32016610/154864757-e87c36fa-f6c4-4d67-9530-f397ee8127a2.png)
+
 
 
 
