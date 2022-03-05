@@ -168,8 +168,25 @@ Obs: Utilize ponto (.) para separar a parte decimal.
 
 ![image](https://user-images.githubusercontent.com/32016610/154864757-e87c36fa-f6c4-4d67-9530-f397ee8127a2.png)
 
+# 9 - Área Direita
 
 
+- Leia um caractere maiúsculo, que indica uma operação que deve ser realizada e uma matriz M[12][12]. 
+- Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão na área direita da matriz, conforme ilustrado abaixo (área verde).
+
+![image](https://user-images.githubusercontent.com/32016610/156896241-e88138f0-4cd4-4b4a-bbe9-c28e02b86d95.png)
+
+
+### Entrada
+
+- A primeira linha de entrada contem um único caractere Maiúsculo O ('S' ou 'M'), indicando a operação (Soma ou Média) que deverá ser realizada com os elementos da matriz. Seguem os 144 valores de ponto flutuante que compõem a matriz.
+
+
+### Saída
+
+- Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto decimal.
+
+![image](https://user-images.githubusercontent.com/32016610/156896258-5cd56d11-6967-4be8-9e8f-096e34b08cf6.png)
 
 
 
